@@ -4,12 +4,9 @@ npm-debug.log
 *.webm
 .sass-cache
 
-<<<<<<< HEAD
 client/build/*hot-update.js
 client/build/*.json
-=======
 
->>>>>>> e3f68b7b206b7e8cc6106f04a0cb43c288919715
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
